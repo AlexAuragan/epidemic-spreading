@@ -1,7 +1,3 @@
-# epidemic-spreading
-Simulation on Julia of an epidemic spreading
-
-# About the notebook
 * As you are aware, the notebook is quite long, that's why we decided to deactivate every plot with a ";" at the end of the cell. 
 Runing the code after removing the ";" and running the cell would allow the notebook to display the graph / gif made in the cell.
 * Although we strongly recommand not to execute any cell at all, as you know, some cell can take up to 5-6min to run. We saved
